@@ -1,0 +1,3 @@
+C:/Users/karim/OneDrive/Desktop/CompArch-hw2/cmake-build-debug/CMakeFiles/CompArch_hw2.dir
+C:/Users/karim/OneDrive/Desktop/CompArch-hw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karim/OneDrive/Desktop/CompArch-hw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
